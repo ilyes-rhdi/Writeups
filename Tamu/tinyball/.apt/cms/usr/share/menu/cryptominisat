@@ -1,0 +1,2 @@
+?package(cryptominisat):needs="text" section="Applications/Science/Mathematics"\
+  title="cryptominisat" command="/usr/bin/cryptominisat5"

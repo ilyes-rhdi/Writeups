@@ -1,0 +1,7 @@
+services:
+  challenge:
+    build: .
+    ports:
+      - "1337:1337"
+    mem_limit: 256m
+    cpus: 0.5

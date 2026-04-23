@@ -1,0 +1,7 @@
+CryptoMiniSat in Debian
+-----------------------
+
+The original tarball has been stripped of directories in docs/ which contain
+some non-free bits, e.g., the IEEE headers. It has also been stripped of the
+obsolete debian/ directory.
+ -- Julian Rüth <julian.rueth@fsfe.org>, Fri, 20 Jul, 2018 14:10:00 +0100

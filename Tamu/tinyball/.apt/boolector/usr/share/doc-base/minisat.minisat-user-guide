@@ -1,0 +1,13 @@
+Document: minisat-user-guide
+Title: MiniSAT User Guide: How to use the MiniSAT SAT Solver
+Author: David A. Wheeler <dwheeler@dwheeler.com>
+Abstract: This article is a brief user guide (documentation)
+ for the MiniSAT (MiniSAT2) program. It describes how to use
+ MiniSAT, including its input format, options, and output
+ format. 
+Section: Science/Mathematics
+
+Format: HTML
+Index: /usr/share/doc/minisat/minisat-user-guide.html
+Files: /usr/share/doc/minisat/minisat-user-guide.html
+

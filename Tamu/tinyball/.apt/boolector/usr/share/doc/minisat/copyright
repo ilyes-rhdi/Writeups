@@ -1,0 +1,37 @@
+This package was debianized by Michael Tautschnig <mt@debian.org> on
+Sat,  7 Jun 2008 17:10:44 +0200.
+
+It was downloaded from http://minisat.se/downloads/minisat2-070721.zip
+
+Upstream Author: Niklas Eén <niklascadence.com>, Niklas Sörensson <nik@cs.chalmers.se>
+
+Copyright: 2003-2006, Niklas Een, Niklas Sorensson
+
+License:
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The file minisat-user-guide.html is Copyright 2008, David A. Wheeler and has
+been downloaded from http://www.dwheeler.com/essays/minisat-user-guide.html. It
+is released to the public domain.
+
+The Debian packaging is Copyright 2008, Michael Tautschnig <mt@debian.org> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+
